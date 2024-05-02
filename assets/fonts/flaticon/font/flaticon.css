@@ -1,0 +1,53 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 31/01/2018 16:47
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: auto;
+font-style: normal;
+margin-left: 0;
+}
+
+.flaticon-calendar:before { content: "\f100"; }
+.flaticon-eco-energy-power:before { content: "\f101"; }
+.flaticon-car-door:before { content: "\f102"; }
+.flaticon-paint-palette-and-brush:before { content: "\f103"; }
+.flaticon-car-steering-wheel:before { content: "\f104"; }
+.flaticon-speed-meter:before { content: "\f105"; }
+.flaticon-car-settings:before { content: "\f106"; }
+.flaticon-engine:before { content: "\f107"; }
+.flaticon-hand-graving-smartphone:before { content: "\f108"; }
+.flaticon-badge-1:before { content: "\f109"; }
+.flaticon-badge:before { content: "\f10a"; }
+.flaticon-plug:before { content: "\f10b"; }
+.flaticon-agreement:before { content: "\f10c"; }
+.flaticon-lock:before { content: "\f10d"; }
+.flaticon-padlock:before { content: "\f10e"; }
+.flaticon-changing-car-tire:before { content: "\f10f"; }
+.flaticon-air-conditioning:before { content: "\f110"; }
+.flaticon-customer-service:before { content: "\f111"; }
+.flaticon-map-marker:before { content: "\f112"; }
+.flaticon-gas-pump:before { content: "\f113"; }
+.flaticon-road-with-broken-line:before { content: "\f114"; }
+.flaticon-car:before { content: "\f115"; }
